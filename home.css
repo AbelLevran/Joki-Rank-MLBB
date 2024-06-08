@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.Zv-_n0Ng7ZTTowV-nPsV6wHaEK?w=330&h=185&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+}
+
+.laman{
+    width: 1080px;
+    margin: 0 auto;
+    background-image: url(https://th.bing.com/th/id/OIP.HMD2pp2JvXmLDK7r-9QTOAHaEK?w=296&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    
+}
+
+.header1{
+    background-image: url(https://th.bing.com/th/id/OIP.HMD2pp2JvXmLDK7r-9QTOAHaEK?w=296&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    background-color: black;
+    color: goldenrod;
+    text-shadow: 25px 15px 10px black;
+    height: 90px;
+    width: 100%;
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: goldenrod;
+    box-shadow: 15px 5px 20px black;
+    padding: 10px;
+    margin-top: 20px;
+}
+img.logo{
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+
+.head1{
+    padding: 20px;
+}
+.head1 p{
+    color: aqua;
+}
+
+.menu_bar{
+    width: 1100px;
+    height: 40px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: goldenrod;
+    box-shadow: 15px 5px 20px black;
+    border-top: none;
+    background-color: black;
+    color: goldenrod;
+}
+
+.menu_option li{
+    float: left;
+    padding: 12px 30px;
+    border-right: solid 2px goldenrod;
+    list-style-type:  none;
+    font-size: 14;
+}
+.menu_option a{
+    color: aqua;
+}
+.menu_option li a {
+    color: goldenrod;
+    text-decoration: none;
+}
+
+.menu_option a:hover {
+    color:aqua;
+    font-weight: bolder;
+}
+
+.isi{
+    width: 1100px;
+    height: 510px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: goldenrod;
+    box-shadow: 15px 15px 20px black;
+    background-color: black;
+    border-top: none;
+}
+.kolom1{
+    background-image: url(gambar/kepala.jfif);
+    color: aqua;
+    float: left;
+    width: 33%;
+    height: 500px;
+    border: 3px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+    margin-left: 5px;
+}
+
+.kolom1 td{
+    text-align: center;
+    color: goldenrod;
+    height: 79px;
+    width: 172px;  
+}
+.kolom2{
+    background-image: url(gambar/kepala.jfif);
+    color: aqua;
+    float: left;
+    width: 33%;
+    height: 500px;
+    margin-left: 5px;
+    border: 3px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+
+}
+.kolom2 td{
+    text-align: center;
+    color: goldenrod;
+    height: 79px;
+    width: 175px;  
+}
+.kolom3{
+    background-image: url(gambar/kepala.jfif);
+    color: aqua;
+    float: left;
+    width: 32%;
+    height: 500px;
+    margin-left: 3px;
+
+}
+.kolom3 td{
+    text-align: center;
+    color: goldenrod;
+    height: 80px;
+    width: 900px;  
+}

@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(gambar/laut.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+
+table{
+    border-collapse: collapse;
+    font-size: 10pt;
+    border: 1px solid #ccccc;
+    width: 80%;
+}
+
+td{
+    padding: 3px;
+    height: 25px;
+}
+th{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+
+h2{
+    text-align: center;
+    font-weight: 600;
+    color: black;
+}
+
+.button-delete{
+    width: 65%;
+    border:4px solid red;
+    background: red url(images/hapus.png) no-repeat 10px 1px;
+    height: 22px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.button-edit{
+    width: 68%;
+    border: 4px solid blue;
+    background: blue url(images/edit.png) no-repeat 10px 1px;
+    height: 22px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.button{
+    text-align: center;
+}
